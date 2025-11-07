@@ -35,8 +35,6 @@ The dashboard delivers **multi-perspective insights** into movies, cast members,
 ![Data Table](assets/data_table.png)
 
 
-*(Replace these image links with your own screenshots. Save them in an `assets/` folder in your repo.)*
-
 ---
 
 ## ✨ Features
